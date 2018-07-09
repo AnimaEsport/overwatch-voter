@@ -17,6 +17,8 @@ module.exports = [
   {name: 'Watchpoint: Gibraltar - Defend', type: 'escort'},
   {name: 'Watchpoint: Gibraltar - Attack', type: 'escort'},
 
+  {name: 'Blizzard World - Defend', type: 'hybrid'},
+  {name: 'Blizzard World - Attack', type: 'hybrid'},
   {name: 'Eichenwalde - Defend', type: 'hybrid'},
   {name: 'Eichenwalde - Attack', type: 'hybrid'},
   {name: 'Hollywood - Defend', type: 'hybrid'},
