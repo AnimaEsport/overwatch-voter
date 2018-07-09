@@ -25,6 +25,7 @@ module.exports = [
   {name: 'Ana', type: 'support'},
   {name: 'Lucio', type: 'support'},
   {name: 'Mercy', type: 'support'},
+  {name: 'Moira', type: 'support'},
   {name: 'Symmetra', type: 'support'},
   {name: 'Zenyatta', type: 'support'}
 ]
