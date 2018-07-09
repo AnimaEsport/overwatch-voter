@@ -12,6 +12,8 @@ module.exports = [
   {name: 'Dorado - Attack', type: 'escort'},
   {name: 'Junkertown - Defend', type: 'escort'},
   {name: 'Junkertown - Attack', type: 'escort'},
+  {name: 'Rialto - Defend', type: 'escort'},
+  {name: 'Rialto - Attack', type: 'escort'},
   {name: 'Route 66 - Defend', type: 'escort'},
   {name: 'Route 66 - Attack', type: 'escort'},
   {name: 'Watchpoint: Gibraltar - Defend', type: 'escort'},
