@@ -23,6 +23,7 @@ module.exports = [
   {name: 'Zarya', type: 'tank'},
 
   {name: 'Ana', type: 'support'},
+  {name: 'Brigitte', type: 'support'},
   {name: 'Lucio', type: 'support'},
   {name: 'Mercy', type: 'support'},
   {name: 'Moira', type: 'support'},
